@@ -1,6 +1,9 @@
-pandas
-plotly
-streamlit
 yfinance
-pandas-datareader
-prophet
+pandas
+numpy
+matplotlib
+streamlit
+binance-connector
+streamlit-autorefresh
+plotly
+requests

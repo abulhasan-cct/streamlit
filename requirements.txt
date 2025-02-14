@@ -7,3 +7,5 @@ binance-connector
 streamlit-autorefresh
 plotly
 requests
+python-binance
+
